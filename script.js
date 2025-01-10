@@ -27,7 +27,7 @@ buttons.forEach((button) => {
       const result = safeEvaluate(expression);
       input.value = result;
       expression = result.toString();
-    } else if (value === "AC") {
+    } else if (value === "ACE") {
       expression = "";
       input.value = expression;
     } else if (value === "DEL") {
