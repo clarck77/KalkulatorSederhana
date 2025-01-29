@@ -17,7 +17,7 @@ Kalkulator sederhana ini dibuat menggunakan **HTML, CSS, dan JavaScript**. Proje
 ## 📂 Struktur Folder  
 
 ```
-📁 kalkulator-sederhana/
+📁 KalkulatorSederhana/
  ├── Ico
  ├── ├── pict1.png     # Icon website
  ├──  index.html       # Halaman utama
@@ -31,7 +31,7 @@ Kalkulator sederhana ini dibuat menggunakan **HTML, CSS, dan JavaScript**. Proje
    ```bash
    git clone https://github.com/clarck77/KalkulatorSederhana.git
    ```
-2. **Buka file `index.html`** di browser favorit Anda 🌍  
+3. **Buka file `index.html`** di browser favorit Anda 🌍  
 
 ## 📜 Lisensi  
 
