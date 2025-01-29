@@ -27,9 +27,13 @@ Kalkulator sederhana ini dibuat menggunakan **HTML, CSS, dan JavaScript**. Proje
 
 ## 🚀 Cara Menjalankan  
 
-1. **Clone repositori ini** ⬇️  
+1. **Clone repositori ini** 
    ```bash
    git clone https://github.com/clarck77/KalkulatorSederhana.git
+   ```
+   **Change Directory**
+2. ```bash
+   cd KalkulatorSederhana
    ```
 3. **Buka file `index.html`** di browser favorit Anda 🌍  
 
