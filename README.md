@@ -45,4 +45,7 @@ Kalkulator sederhana ini dibuat menggunakan **HTML, CSS, dan JavaScript**. Proje
    - 📂 Klik dua kali pada `index.html`, atau
    - 🌐 Gunakan ekstensi live server di editor seperti VS Code.
 
+## Lisensi  
+📝 Proyek ini tidak dilisensikan.  
+
 > Amrullah Azzaky
