@@ -25,17 +25,25 @@ Kalkulator sederhana ini dibuat menggunakan **HTML, CSS, dan JavaScript**. Proje
  └──  script.js        # Logika kalkulator
 ```
 
-## 🚀 Cara Menjalankan  
-
-1. **Clone repositori ini** 
+## 🚀 Instalasi & Penggunaan
+1. **Clone repositori:**
    ```bash
    git clone https://github.com/clarck77/KalkulatorSederhana.git
    ```
-   **Change Directory**
-2. ```bash
+
+2. **Masuk ke folder proyek:**
+   ```bash
    cd KalkulatorSederhana
    ```
-3. **Buka file `index.html`** di browser favorit Anda 🌍  
+
+3. **Membuka Kode Editor / IDE**
+   ```bash
+   code . 
+   ```
+
+4. **Buka file `index.html` di browser:**
+   - 📂 Klik dua kali pada `index.html`, atau
+   - 🌐 Gunakan ekstensi live server di editor seperti VS Code.
 
 ## 📜 Lisensi  
 
