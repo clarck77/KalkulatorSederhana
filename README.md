@@ -5,7 +5,9 @@ Kalkulator sederhana ini dibuat menggunakan **HTML, CSS, dan JavaScript**. Proje
 ## 🔥 Fitur  
 
 ✅ **Operasi Matematika**: Penjumlahan, Pengurangan, Perkalian, dan Pembagian
+
 ✅ **Antarmuka Responsif** 
+
 ✅ **Desain Minimalis & Modern** 
 
 ## 🛠️ Teknologi  
