@@ -16,17 +16,6 @@ Kalkulator sederhana ini dibuat menggunakan **HTML, CSS, dan JavaScript**. Proje
 - 🎨 **CSS** → Styling tampilan  
 - ⚡ **JavaScript** → Logika interaktif
 
-## 📂 Struktur Folder  
-
-```
-📁 KalkulatorSederhana/
- ├── Ico
- ├── ├── pict1.png     # Icon website
- ├──  index.html       # Halaman utama
- ├──  style.css        # Styling tampilan
- └──  script.js        # Logika kalkulator
-```
-
 ## 🚀 Instalasi & Penggunaan
 1. **Clone repositori:**
    ```bash
@@ -46,6 +35,17 @@ Kalkulator sederhana ini dibuat menggunakan **HTML, CSS, dan JavaScript**. Proje
 4. **Buka file `index.html` di browser:**
    - 📂 Klik dua kali pada `index.html`, atau
    - 🌐 Gunakan ekstensi live server di editor seperti VS Code.
+
+## 📂 Struktur Folder  
+
+```
+📁 KalkulatorSederhana/
+ ├── Ico
+ ├── ├── pict1.png     # Icon website
+ ├──  index.html       # Halaman utama
+ ├──  style.css        # Styling tampilan
+ └──  script.js        # Logika kalkulator
+```
 
 ## Lisensi  
 📝 Proyek ini tidak dilisensikan.  
