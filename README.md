@@ -44,7 +44,8 @@ Kalkulator sederhana ini dibuat menggunakan **HTML, CSS, dan JavaScript**. Proje
  ├── ├── pict1.png     # Icon website
  ├──  index.html       # Halaman utama
  ├──  style.css        # Styling tampilan
- └──  script.js        # Logika kalkulator
+ ├──  script.js        # Logika kalkulator
+ └── README.md         
 ```
 
 ## Lisensi  
